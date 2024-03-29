@@ -45,7 +45,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>javaApp.EvenSum</mainClass>
+                    <mainClass>javaApp.PrimeSum</mainClass>
                 </configuration>
             </plugin>
             <!-- Maven Surefire Plugin -->
